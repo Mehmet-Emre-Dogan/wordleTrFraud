@@ -13,5 +13,7 @@ Wordle için hile uygulaması
 
 ![ss](./ss.png)
 
+![ss](./ss2.png) 
+
 </div>
 
